@@ -2,18 +2,6 @@
 
 A simple Flask application that provides a user registration form styled with Bootstrap. User information is stored in a MySQL database upon successful registration.
 
-## Table of Contents
-
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Database Setup](#database-setup)
-- [Running the Application](#running-the-application)
-- [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
-- [Technologies Used](#technologies-used)
-- [License](#license)
-
 ## Features
 
 - **User Registration**: Collects user's name, email, and password.
